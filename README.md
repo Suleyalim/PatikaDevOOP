@@ -17,7 +17,7 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 
 
-## Ödev - Hayvanat Bahçesi Yönetimi##
+## Ödev - Hayvanat Bahçesi Yönetimi
 
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
@@ -33,7 +33,7 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
-## Ödev - Uçuş Yönetim Sistemi##
+## Ödev - Uçuş Yönetim Sistemi
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 * Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
@@ -44,4 +44,5 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 * Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
 * Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 * Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
+
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
